@@ -1,0 +1,272 @@
+﻿@model GrandTravel.Entity.Customer
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-route.min.js"></script>
+    <script src="/js/angular/ng-file-upload-shim.min.js"></script>
+    <script src="/js/angular/ng-file-upload.min.js"></script>
+
+    <script src="/js/angular/Upload-2/angular-file-upload.min.js"></script>
+
+    <script src="/app/GrandTravelApp.js"></script>
+    <script src="/app/controllers/CustomersListController.js"></script>
+    <script src="/app/controllers/CustomerCreateController.js"></script>
+    <script src="/app/controllers/CustomerUpdateController.js"></script>
+    <script src="/app/controllers/CustomerAllController.js"></script>
+    <script src="/app/controllers/CustomerAdminUpdateController.js"></script>
+    <script src="/app/controllers/CustomersDeleteController.js"></script>
+    <script src="/app/services/CustomerService.js"></script>
+
+    <script src="/app/controllers/TravelProviderListController.js"></script>
+    <script src="/app/controllers/TravelProviderCreateController.js"></script>
+    <script src="/app/controllers/TravelProviderUpdateController.js"></script>
+    <script src="/app/services/TravelProviderService.js"></script>
+
+    <script src="/app/controllers/PackageListController.js"></script>
+    <script src="/app/controllers/PackageCreateController.js"></script>
+    <script src="/app/controllers/PackageUpdateController.js"></script>
+    <script src="/app/controllers/PackageSearchController.js"></script>
+    <script src="/app/controllers/CartItemDeleteController.js"></script>
+    <script src="/app/services/PackageService.js"></script>
+
+
+    <script src="/app/controllers/LocationCreateController.js"></script>
+    <script src="/app/services/LocationService.js"></script>
+
+    <!--- Angular Master Upload Functionality -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" />
+    <!-- Fix for old browsers -->
+    <script src="http://nervgh.github.io/js/es5-shim.min.js"></script>
+    <script src="http://nervgh.github.io/js/es5-sham.min.js"></script>
+    <script src="/js/angular/Upload-2/console-sham.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+
+   
+    <style>
+        .my-drop-zone {
+            border: dotted 3px lightgray;
+        }
+
+        .nv-file-over {
+            border: dotted 3px red;
+        }
+        /* Default class applied to drop zones on over */
+        .another-file-over-class {
+            border: dotted 3px green;
+        }
+    </style>
+    <!-- Master Upload End Here -->
+
+   
+
+    <style type="text/css">
+        .white{
+            color:#fff;
+        }
+        .margin_top15{
+            margin-top:15px;
+        }
+        .footer {
+            height:10%;
+            border-radius: 15px;
+            background: #B8EDF9;
+            padding: 20px; 
+            margin-top:20px;
+        }
+        .Msidebar {
+            z-index : -1000;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" >
+        <div class="rowr" >
+            <div class="col-md-12"><div class="well"><h2>Customer Account</h2></div></div>
+                <div class="collapse navbar-collapse navbar-ex1-collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Site Visit <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">Product</a></li>
+                                <li><a href="#">Cart</a></li>
+                                <li><a href="#">Contact</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social Network<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Facebook</a></li>
+                                <li><a href="#">Linked In</a></li>
+                                <li><a href="#">Twitter</a></li>
+                                <li><a href="#">Google Plus</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                 </div>
+            </div>
+        <div class="row"  ng-app="grandTravelApp">
+            <div class="col-md-3">
+                <nav class="navbar-default" role="navigation">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="col-md-12 navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <div class="navbar-brand">
+                            <img clas="profile-thumb" src="@Model.ImageUrl" class="img-thumbnail img-circle" alt="Cinque Terre" width="80" height="80">
+                        </div>
+                        <br/>
+                        <br/>
+                     
+                        <div class="clearfix"></div>
+                        <h3 class="navbar-brand" href="#">@Model.FirstName @Model.LastName</h3>
+                        
+                      
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        <div>
+                            <a href="#" class="btn btn-primary white" role="button">FeedBack</a>
+                            <a href="#" class="btn btn-info white" role="button">Hot Deal</a>
+                        </div>
+                        <form role="search" class="margin_top15">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search Packeges">
+
+                                <button type="submit" class="btn btn-default">Submit</button>
+                            </div>
+               
+                        </form>
+                        <ul class="nav navbar-right" style="margin-top:-20px">
+                            <li>
+                                @if (User.Identity.IsAuthenticated)
+                                { <a href="@Url.Action("index", "LogOut")" target="_self">Logout</a>}
+                            </li>
+
+                        </ul>
+                        
+                    </div><!-- /.navbar-collapse -->
+                </nav>
+            </div>
+            <div class="col-md-9">
+                <ul class="nav nav-tabs">
+                    <li class="active"><a data-toggle="tab" href="Account#home">Profile</a></li>
+                    <li><a data-toggle="tab" href="Account/packageSearch#menu1">Search Product</a></li>
+                    <li><a data-toggle="tab" href="Account/carts#menu2">Shopping Cart</a></li>
+                    @if(Model.Authorization == GrandTravel.Entity.Enums.RoleEnum.Customer)
+                    {
+                        <li><a data-toggle="tab" href="empty#menu3">Travel Provider</a></li>
+                    }
+                    @if (Model.Authorization == GrandTravel.Entity.Enums.RoleEnum.TravelProvider)
+                    {
+                        <li><a data-toggle="tab" href="empty#menu4">Package Manager</a></li>
+                    }
+                    @if (Model.Authorization == GrandTravel.Entity.Enums.RoleEnum.Admin)
+                    {
+                        <li><a data-toggle="tab" href="empty#menu5">Admin Pannel</a></li>
+                       
+                    }
+
+                </ul>
+
+                <div class="tab-content">
+                    <div id="home" class="tab-pane fade in active">
+                        <h3>Profile</h3>
+                        <div class="col-md-6">
+                            <div ng-view>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div id="menu1" class="tab-pane fade">
+                        <h3>Search Product</h3>
+                        <div ng-view>
+
+                        </div>
+                    </div>
+                    <div id="menu2" class="tab-pane fade">
+                        <h3>Shopping Cart</h3>
+
+
+                        <div ng-view>
+
+                        </div>
+                    </div>
+                    @if (Model.Authorization == GrandTravel.Entity.Enums.RoleEnum.Customer)
+                    {
+                    <div id="menu3" class="tab-pane fade">
+                        <h3>You are Not Yet A Travel Provider</h3>
+                        
+                            <a href="Account/TravelProvider/create" class="btn btn-primary white" role="button">Apply For Travel Provider</a>
+                            <div ng-view>
+
+                            </div>
+
+                     </div>
+                    }
+                    @if (Model.Authorization == GrandTravel.Entity.Enums.RoleEnum.TravelProvider)
+                    {
+                        <div id="menu4" class="tab-pane fade">
+                            <h3>You are Not Yet A Travel Provider</h3>
+                            <a href="Package/create" class="btn btn-primary white" role="button">Add New Package</a>
+
+                            <div ng-view>
+
+                            </div>
+
+                        </div>
+                    }
+                    @if (Model.Authorization == GrandTravel.Entity.Enums.RoleEnum.Admin)
+                    {
+                        <div id="menu5" class="tab-pane fade">
+                            <h3>Admin Control Panel</h3>
+                            
+                            <div class="col-md-12">
+                                <a href="Account/Admin" class="btn btn-primary white" role="button">Show Customers</a>
+                                <a href="Account/create" class="btn btn-primary white" role="button">Create Customer</a>
+                                <a href="Account/Admin/addlocation" class="btn btn-primary white" role="button">Add Location</a>
+                            </div>
+                               
+                            <div class="row">
+                                <div ng-view>
+
+                                </div>
+                            </div>
+
+                        </div>
+                      
+                            
+                    }
+                </div>
+            </div>
+
+        </div>
+
+        <div class="footer" >
+            All Right Reserved for Webnets
+        </div>
+    </div>
+
+   
+</body>
+</html>

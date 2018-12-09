@@ -1,0 +1,36 @@
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.dll.config
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.dll
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.pdb
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.dll
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.SqlServer.dll
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Entity.dll
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Entity.pdb
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.xml
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.SqlServer.xml
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.csprojResolveAssemblyReference.cache
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.dll
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.pdb
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.dll.config
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.pdb
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Entity.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Entity.pdb
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.csprojResolveAssemblyReference.cache
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.dll.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.pdb

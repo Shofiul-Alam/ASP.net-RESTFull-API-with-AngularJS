@@ -1,0 +1,65 @@
+﻿@model GrandTravel.Angular.Models.LoginModel
+@{
+    ViewBag.Title = "Login";
+}
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Index</title>
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-route.min.js"></script>
+    <script src="/js/angular/ng-file-upload-shim.min.js"></script>
+    <script src="/js/angular/ng-file-upload.min.js"></script>
+    <script src="/js/angular/Upload-2/angular-file-upload.min.js"></script>
+
+    <script src="/app/grandTravelApp.js"></script>
+    <script src="/app/controllers/CustomerLoginController.js"></script>
+    <script src="/app/services/CustomerService.js"></script>
+    <script src="/app/controllers/CustomersListController.js"></script>
+    <script src="/app/controllers/CustomerCreateController.js"></script>
+
+    <style>
+       body { 
+              background: url('../../images/LoginPage/loginBack.jpg') no-repeat center center fixed; 
+              -webkit-background-size: cover;
+              -moz-background-size: cover;
+              -o-background-size: cover;
+              background-size: cover;
+            }
+       .loginBlock{
+            margin-top:33%;
+            background-color: #000;
+            border: 1px solid black;
+            opacity: 0.6;
+            filter: alpha(opacity=60);
+            color:#fff;
+       }
+    </style>
+</head>
+<body>
+    <div id="loginBack" class="container" ng-app="grandTravelApp">
+        <div class="panel col-md-4 col-md-offset-4 loginBlock">
+
+            <div ng-view>
+
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+</html>

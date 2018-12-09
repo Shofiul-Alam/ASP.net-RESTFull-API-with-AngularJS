@@ -1,0 +1,30 @@
+﻿@model GrandTravel.Entity.Teacher
+
+@{
+    ViewBag.Title = "Teacher";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <h4>Update Lesson</h4>
+        <hr />
+        @Html.HiddenFor(model => model.Id)
+        <div>
+            @Html.LabelFor(model => model.Name)
+            <div>
+                @Html.TextBoxFor(model => model.Name)
+                @Html.ValidationMessageFor(model => model.Name)
+            </div>
+        </div>
+
+        <div>
+            <input type="submit" value="Update" />
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

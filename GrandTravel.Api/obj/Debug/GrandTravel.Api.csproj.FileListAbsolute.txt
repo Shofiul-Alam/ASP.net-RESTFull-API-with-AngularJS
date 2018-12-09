@@ -1,0 +1,192 @@
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\csc.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\vbc.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Api.dll.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Api.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Api.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Newtonsoft.Json.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\System.Web.Http.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Managers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\EntityFramework.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Managers.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Newtonsoft.Json.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\System.Web.Http.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\EntityFramework.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\obj\Debug\GrandTravel.Api.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\obj\Debug\Tafe.CourseList.Api.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\obj\Debug\Tafe.CourseList.Api.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Api.dll.CodeAnalysisLog.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Api\bin\Tafe.CourseList.Api.dll.lastcodeanalysissucceeded
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\csc.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\vbc.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\Newtonsoft.Json.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\System.Web.Http.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\EntityFramework.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\Newtonsoft.Json.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\System.Web.Http.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\EntityFramework.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.dll.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\GrandTravel.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\GrandTravel.Managers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\GrandTravel.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\GrandTravel.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\GrandTravel.Managers.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\bin\GrandTravel.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\csc.exe
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\vbc.exe
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.dll.config
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\GrandTravel.Entity.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\GrandTravel.Managers.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\GrandTravel.Repo.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\Newtonsoft.Json.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\System.Web.Http.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\EntityFramework.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\GrandTravel.Entity.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\GrandTravel.Managers.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\GrandTravel.Repo.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\Newtonsoft.Json.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\System.Web.Http.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\EntityFramework.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.csprojResolveAssemblyReference.cache
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\csc.exe
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\vbc.exe
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.dll.config
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\GrandTravel.Managers.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\Newtonsoft.Json.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\System.Web.Http.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\EntityFramework.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\GrandTravel.Managers.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\Newtonsoft.Json.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\System.Web.Http.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\EntityFramework.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\csc.exe
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\vbc.exe
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.dll.config
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\GrandTravel.Api.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\GrandTravel.Managers.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\Newtonsoft.Json.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\System.Web.Http.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\EntityFramework.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\GrandTravel.Managers.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\Newtonsoft.Json.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\System.Web.Http.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\EntityFramework.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Api\obj\Debug\GrandTravel.Api.pdb

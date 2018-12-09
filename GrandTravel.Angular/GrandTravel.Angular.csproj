@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{73A6F62B-23A4-4187-BAEB-44ABB6BE58FA}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GrandTravel.Angular</RootNamespace>
+    <AssemblyName>GrandTravel.Angular</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort>44324</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNet.Http.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Http.Abstractions.1.0.0-rc1-final\lib\net451\Microsoft.AspNet.Http.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Http.Features, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Http.Features.1.0.0-rc1-final\lib\net451\Microsoft.AspNet.Http.Features.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Session, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Session.1.0.0-rc1-final\lib\net451\Microsoft.AspNet.Session.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Extensions.Caching.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Caching.Abstractions.1.0.0-rc1-final\lib\net451\Microsoft.Extensions.Caching.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.1.0.0-rc1-final\lib\net451\Microsoft.Extensions.Configuration.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Abstractions.1.0.0-rc1-final\lib\net451\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Binder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Binder.1.0.0-rc1-final\lib\net451\Microsoft.Extensions.Configuration.Binder.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.1.0.0-rc1-final\lib\net451\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.1.0.0-rc1-final\lib\net451\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.OptionsModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.OptionsModel.1.0.0-rc1-final\lib\net451\Microsoft.Extensions.OptionsModel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.1.0.0-rc1-final\lib\net451\Microsoft.Extensions.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.WebEncoders.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.WebEncoders.Core.1.0.0-rc1-final\lib\net451\Microsoft.Extensions.WebEncoders.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.3.0.1\lib\net45\Microsoft.Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.0.1\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.3.0.1\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.3.0.1\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Owin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f0ebd12fd5e55cc5, processorArchitecture=MSIL">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Http.Owin, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Owin.5.2.3\lib\net45\System.Web.Http.Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Deployment">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="app\controllers\CustomerAllController.js" />
+    <Content Include="app\controllers\CustomerAdminUpdateController.js" />
+    <Content Include="app\controllers\CustomerLoginController.js" />
+    <Content Include="app\controllers\CartItemDeleteController.js" />
+    <Content Include="app\controllers\CustomersDeleteController.js" />
+    <Content Include="app\controllers\LocationCreateController.js" />
+    <Content Include="app\controllers\PackageCreateController.js" />
+    <Content Include="app\controllers\PackagesController.js" />
+    <Content Include="app\controllers\PackageSearchController.js" />
+    <Content Include="app\controllers\PackageListController.js" />
+    <Content Include="app\controllers\PackageUpdateController.js" />
+    <Content Include="app\controllers\TravelProviderCreateController.js" />
+    <Content Include="app\controllers\CustomerCreateController.js" />
+    <Content Include="app\controllers\TravelProviderListController.js" />
+    <Content Include="app\controllers\CustomersListController.js" />
+    <Content Include="app\controllers\TravelProviderUpdateController.js" />
+    <Content Include="app\controllers\CustomerUpdateController.js" />
+    <Content Include="app\grandTravelApp.js" />
+    <Content Include="app\services\LocationService.js" />
+    <Content Include="app\services\TravelProviderService.js" />
+    <Content Include="app\services\OrderService.js" />
+    <Content Include="app\services\PackageService.js" />
+    <Content Include="app\services\CustomerService.js" />
+    <Content Include="app\templates\customer-admin-update.html" />
+    <Content Include="app\templates\delete.html" />
+    <Content Include="app\templates\login.html" />
+    <Content Include="app\templates\location-create.html" />
+    <Content Include="app\templates\customer-update.html" />
+    <Content Include="app\templates\customer-list.html" />
+    <Content Include="app\templates\order-create.html" />
+    <Content Include="app\templates\order-list.html" />
+    <Content Include="app\templates\order-update.html" />
+    <Content Include="app\templates\customer-create.html" />
+    <Content Include="app\templates\customers-list.html" />
+    <Content Include="app\templates\package-cart.html" />
+    <Content Include="app\templates\package.html" />
+    <Content Include="app\templates\paypal-checkout.html" />
+    <Content Include="app\templates\shopping-cart.html" />
+    <Content Include="app\templates\package-search.html" />
+    <Content Include="app\templates\package-create.html" />
+    <Content Include="app\templates\package-list.html" />
+    <Content Include="app\templates\package-update.html" />
+    <Content Include="app\templates\travelProvider-create.html" />
+    <Content Include="app\templates\travelProvider-list.html" />
+    <Content Include="app\templates\travelProvider-update.html" />
+    <Content Include="background_wrapper.gif" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\creative.css" />
+    <Content Include="css\creative.min.css" />
+    <Content Include="css\font-awesome\css\font-awesome.css" />
+    <Content Include="css\font-awesome\css\font-awesome.min.css" />
+    <Content Include="css\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="css\magnific-popup.css" />
+    <Content Include="css\reset.css" />
+    <Content Include="css\responsive-leyouts.css" />
+    <Content Include="css\shop-homepage.css" />
+    <Content Include="css\shop-item.css" />
+    <Content Include="css\style.css" />
+    <Content Include="font-awesome\css\font-awesome.css" />
+    <Content Include="font-awesome\css\font-awesome.min.css" />
+    <Content Include="font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="hideMenu.gif" />
+    <Content Include="images\Brand\Expo_2012_Samsung_pavilion.JPG" />
+    <Content Include="images\Brand\LG AVA 1 2007.jpg" />
+    <Content Include="images\content\Beacon_Tower_Lighting_Ceremony.jpg" />
+    <Content Include="images\Customer\images\Girl.jpg" />
+    <Content Include="images\footer-graph.png" />
+    <Content Include="images\footer-graph2--.jpg" />
+    <Content Include="images\footer-graph2.jpg" />
+    <Content Include="images\LoginPage\loginBack.jpg" />
+    <Content Include="images\map.png" />
+    <Content Include="images\Market\17008685.jpg" />
+    <Content Include="images\Market\Dongdaemun-Market-30190.jpg" />
+    <Content Include="images\Market\tq00.jpg" />
+    <Content Include="images\Market\ts-intro.jpg" />
+    <Content Include="images\Museum\1671210-inline-xtu-jeo-museo1.jpg" />
+    <Content Include="images\Museum\35cc0-20130710_164530.jpg" />
+    <Content Include="images\Museum\hwaseong-fortress.jpg" />
+    <Content Include="images\Museum\images.jpg" />
+    <Content Include="images\Museum\National-Museum-of-Korea.jpg" />
+    <Content Include="images\Museum\war-museum-05.jpg" />
+    <Content Include="images\others\Flag_of_South_Korea_%28cropped%29.jpg" />
+    <Content Include="images\others\image.jpeg" />
+    <Content Include="images\others\Jakwangsa temple in Daejeon.jpg" />
+    <Content Include="images\others\jbkorea.gif" />
+    <Content Include="images\others\korean_old_palace_2_by_cgh30217.jpg" />
+    <Content Include="images\others\south-korea-map1.png" />
+    <Content Include="images\palace\56_02_1280x1024.jpg" />
+    <Content Include="images\palace\download.jpg" />
+    <Content Include="images\palace\hb_south_korea_gyeongbokgung_palace.jpg" />
+    <Content Include="images\palace\photo258231.jpg" />
+    <Content Include="img\header---.jpg" />
+    <Content Include="img\header.jpg" />
+    <Content Include="img\portfolio\fullsize\1.jpg" />
+    <Content Include="img\portfolio\fullsize\2.jpg" />
+    <Content Include="img\portfolio\fullsize\3.jpg" />
+    <Content Include="img\portfolio\fullsize\4.jpg" />
+    <Content Include="img\portfolio\fullsize\5.jpg" />
+    <Content Include="img\portfolio\fullsize\6.jpg" />
+    <Content Include="img\portfolio\thumbnails\1.jpg" />
+    <Content Include="img\portfolio\thumbnails\2.jpg" />
+    <Content Include="img\portfolio\thumbnails\3.jpg" />
+    <Content Include="img\portfolio\thumbnails\4.jpg" />
+    <Content Include="img\portfolio\thumbnails\5.jpg" />
+    <Content Include="img\portfolio\thumbnails\6.jpg" />
+    <Content Include="js\angular\angular.min.js" />
+    <Content Include="js\angular\FileAPI.flash.swf" />
+    <Content Include="js\angular\FileAPI.min.js" />
+    <Content Include="js\angular\ng-file-upload-all.min.js" />
+    <Content Include="js\angular\ng-file-upload-shim.min.js" />
+    <Content Include="js\angular\ng-file-upload.min.js" />
+    <Content Include="js\angular\Upload-2\angular-file-upload.min.js" />
+    <Content Include="js\angular\Upload-2\console-sham.js" />
+    <Content Include="js\angular\Upload-2\console-sham.min.js" />
+    <Content Include="app\controllers\MultiFileUploadController.js" />
+    <Content Include="app\templates\MultiFileUpload.html" />
+    <Content Include="js\angular\Upload-2\simple\uploads\gap.txt" />
+    <Content Include="js\animations\css\animations.css" />
+    <Content Include="js\animations\css\animations.min.css" />
+    <Content Include="js\animations\css\normalize.css" />
+    <Content Include="js\animations\css\style.css" />
+    <Content Include="js\animations\js\animations.js" />
+    <Content Include="js\animations\js\animations.min.js" />
+    <Content Include="js\animations\js\smoothscroll.js" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\creative.js" />
+    <Content Include="js\creative.min.js" />
+    <Content Include="js\cubeportfolio\cbp-loading-popup.gif" />
+    <Content Include="js\cubeportfolio\cbp-loading.gif" />
+    <Content Include="js\cubeportfolio\cbp-sprite.png" />
+    <Content Include="js\cubeportfolio\cubeportfolio.min.css" />
+    <Content Include="js\cubeportfolio\jquery.cubeportfolio.min.js" />
+    <Content Include="js\cubeportfolio\main.js" />
+    <Content Include="js\cubeportfolio\main2.js" />
+    <Content Include="js\cubeportfolio\main3.js" />
+    <Content Include="js\cubeportfolio\main4.js" />
+    <Content Include="js\cubeportfolio\main5.js" />
+    <Content Include="js\cubeportfolio\main6.js" />
+    <Content Include="js\jquery.easing.min.js" />
+    <Content Include="js\jquery.fittext.js" />
+    <Content Include="js\jquery.js" />
+    <Content Include="js\jquery.magnific-popup.js" />
+    <Content Include="js\jquery.magnific-popup.min.js" />
+    <Content Include="js\lightbox\blank.gif" />
+    <Content Include="js\lightbox\custom.js" />
+    <Content Include="js\lightbox\fancybox_loading%402x.gif" />
+    <Content Include="js\lightbox\fancybox_loading.gif" />
+    <Content Include="js\lightbox\fancybox_overlay.png" />
+    <Content Include="js\lightbox\fancybox_sprite%402x.png" />
+    <Content Include="js\lightbox\fancybox_sprite.png" />
+    <Content Include="js\lightbox\jquery.fancybox.css" />
+    <Content Include="js\lightbox\jquery.fancybox.js" />
+    <Content Include="js\lightbox\jquery.fancybox.pack.js" />
+    <Content Include="js\scrollreveal.js" />
+    <Content Include="js\scrollreveal.min.js" />
+    <Content Include="js\style-switcher\colors-swi.png" />
+    <Content Include="js\style-switcher\jquery-1.js" />
+    <Content Include="js\style-switcher\styleselector.js" />
+    <Content Include="js\style-switcher\styleswitcher.js" />
+    <Content Include="js\universal\jquery.js" />
+    <Content Include="logo.png" />
+    <Content Include="old-style.css" />
+    <Content Include="responsive-leyouts.css" />
+    <Content Include="responsiveslides.min.js" />
+    <Content Include="showMenu.gif" />
+    <Content Include="style.css" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="wrapperBack.gif" />
+    <Content Include="_css\dropdown-menu.css" />
+    <Content Include="_css\mobile_menu.css" />
+    <Content Include="_css\slider.css" />
+    <Content Include="_css\uploadThumb.css" />
+    <Content Include="_img\dropdownmenu\--dropdown-bg-hover.gif" />
+    <Content Include="_img\dropdownmenu\--dropdown-bg.gif" />
+    <Content Include="_img\dropdownmenu\--dropdown-list-bg.gif" />
+    <Content Include="_img\dropdownmenu\blue_dropdown-bg.gif" />
+    <Content Include="_img\dropdownmenu\darkGreen\dropdown-list-bg.gif" />
+    <Content Include="_img\dropdownmenu\dropdown-bg-hover.gif" />
+    <Content Include="_img\dropdownmenu\dropdown-bg.gif" />
+    <Content Include="_img\dropdownmenu\dropdown-list-bg.gif" />
+    <Content Include="_img\dropdownmenu\last_dropdown-bg.gif" />
+    <Content Include="_img\dropdownmenu\navigation-arrow.gif" />
+    <Content Include="_img\dropdownmenu\separator.gif" />
+    <Content Include="_img\dropdownmenu\sky\dropdown-list-bg.gif" />
+    <Content Include="_img\dropdownmenu\_notes\dwsync.xml" />
+    <Content Include="_img\gallery\seoul1.jpg" />
+    <Content Include="_img\gallery\seoul2.jpg" />
+    <Content Include="_img\gallery\seoul3.jpg" />
+    <Content Include="_img\gallery\seoul4.jpg" />
+    <Content Include="_img\gallery\seoul5.jpg" />
+    <Content Include="_img\gallery\seoul6.jpg" />
+    <Content Include="_img\_headerSlider\branSlide.jpg" />
+    <Content Include="_img\_headerSlider\marketSlide.jpg" />
+    <Content Include="_img\_headerSlider\museumSlide.jpg" />
+    <Content Include="_img\_headerSlider\palaceSlide.jpg" />
+    <Content Include="_img\_private\--footerBack.gif" />
+    <Content Include="_img\_private\a4maths.png" />
+    <Content Include="_img\_private\aboutSeoulLogo.png" />
+    <Content Include="_img\_private\blockquote1.png" />
+    <Content Include="_img\_private\blockquote2.png" />
+    <Content Include="_img\_private\cart1.png" />
+    <Content Include="_img\_private\cartoon1.jpg" />
+    <Content Include="_img\_private\cartoon2.jpg" />
+    <Content Include="_img\_private\cartoon3.jpg" />
+    <Content Include="_img\_private\cartoon4.jpg" />
+    <Content Include="_img\_private\cartoon5.jpg" />
+    <Content Include="_img\_private\download %281%29.gif" />
+    <Content Include="_img\_private\download.gif" />
+    <Content Include="_img\_private\download.svg" />
+    <Content Include="_img\_private\email.svg" />
+    <Content Include="_img\_private\facebook.svg" />
+    <Content Include="_img\_private\footer-graph.png" />
+    <Content Include="_img\_private\footer-graph2.jpg" />
+    <Content Include="_img\_private\footer.gif" />
+    <Content Include="_img\_private\footer2Back.jpg" />
+    <Content Include="_img\_private\footerBack.gif" />
+    <Content Include="_img\_private\frmBackground.gif" />
+    <Content Include="_img\_private\h2Back.jpg" />
+    <Content Include="_img\_private\logo.png" />
+    <Content Include="_img\_private\next.gif" />
+    <Content Include="_img\_private\next.png" />
+    <Content Include="_img\_private\nextHover.png" />
+    <Content Include="_img\_private\nextPreviousButton.jpg" />
+    <Content Include="_img\_private\papal.png" />
+    <Content Include="_img\_private\prev.gif" />
+    <Content Include="_img\_private\prev.png" />
+    <Content Include="_img\_private\prevHover.png" />
+    <Content Include="_img\_private\redBack - Copy.png" />
+    <Content Include="_img\_private\redBack.png" />
+    <Content Include="_img\_private\socialAdd.svg" />
+    <Content Include="_img\_private\tweet.svg" />
+    <Content Include="_img\_private\underline.png" />
+    <Content Include="_img\_private\weather.png" />
+    <Content Include="_img\_private\wrapperBack %283%29.gif" />
+    <Content Include="_img\_private\yollowBack - Copy.png" />
+    <Content Include="_img\_private\yollowBack.png" />
+    <Content Include="_img\_private\yollowBackLast.png" />
+    <Content Include="_scripts\headerslider\inline.js" />
+    <Content Include="_scripts\headerslider\jssor.core.js" />
+    <Content Include="_scripts\headerslider\jssor.slider.js" />
+    <Content Include="_scripts\headerslider\jssor.utils.js" />
+    <Content Include="_scripts\jquery-1.9.1.min.js" />
+    <Content Include="_scripts\verticlenav.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\StartUp.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\PaymentCompleteController.cs" />
+    <Compile Include="Controllers\PayPalPaymentController.cs" />
+    <Compile Include="Controllers\TravelProviderController.cs" />
+    <Compile Include="Controllers\CustomersController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
+    <Compile Include="Controllers\CustomerController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\LogOutController.cs" />
+    <Compile Include="Controllers\PackageController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
+    <Compile Include="Controllers\LocationController.cs" />
+    <Compile Include="Controllers\UserRegisterController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Library\CustomDecrypt.cs" />
+    <Compile Include="Library\CustomEnrypt.cs" />
+    <Compile Include="Library\GMailer.cs" />
+    <Compile Include="Library\ShoppingCart.cs" />
+    <Compile Include="Models\LineItem.cs" />
+    <Compile Include="Models\PackageView.cs" />
+    <Compile Include="Models\LoginModel.cs" />
+    <Compile Include="Models\PayPalProduct.cs" />
+    <Compile Include="Models\SearchQuery.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Controllers\PackageDetailsController.cs" />
+    <Compile Include="Controllers\PackagesController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\web.config" />
+    <Content Include="packages.config" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="css\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="css\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="css\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="css\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="images\palace\Thumbs.db" />
+    <Content Include="js\style-switcher\Thumbs.db" />
+    <Content Include="Views\Customers\Index.cshtml" />
+    <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Views\Shared\_Layout - Copy.cshtml" />
+    <Content Include="Views\Account\Index.cshtml" />
+    <Content Include="Views\UserRegister\Index.cshtml" />
+    <Content Include="js\angular\Upload-2\simple\upload.php" />
+    <Content Include="Views\PayPalPayment\Index.cshtml" />
+    <Content Include="Views\PaymentComplete\Index.cshtml" />
+    <Content Include="Views\Shared\_Layout--last.cshtml" />
+    <Content Include="font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="font-awesome\less\animated.less" />
+    <Content Include="font-awesome\less\bordered-pulled.less" />
+    <Content Include="font-awesome\less\core.less" />
+    <Content Include="font-awesome\less\fixed-width.less" />
+    <Content Include="font-awesome\less\font-awesome.less" />
+    <Content Include="font-awesome\less\icons.less" />
+    <Content Include="font-awesome\less\larger.less" />
+    <Content Include="font-awesome\less\list.less" />
+    <Content Include="font-awesome\less\mixins.less" />
+    <Content Include="font-awesome\less\path.less" />
+    <Content Include="font-awesome\less\rotated-flipped.less" />
+    <Content Include="font-awesome\less\stacked.less" />
+    <Content Include="font-awesome\less\variables.less" />
+    <Content Include="font-awesome\scss\font-awesome.scss" />
+    <Content Include="font-awesome\scss\_animated.scss" />
+    <Content Include="font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="font-awesome\scss\_core.scss" />
+    <Content Include="font-awesome\scss\_fixed-width.scss" />
+    <Content Include="font-awesome\scss\_icons.scss" />
+    <Content Include="font-awesome\scss\_larger.scss" />
+    <Content Include="font-awesome\scss\_list.scss" />
+    <Content Include="font-awesome\scss\_mixins.scss" />
+    <Content Include="font-awesome\scss\_path.scss" />
+    <Content Include="font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="font-awesome\scss\_stacked.scss" />
+    <Content Include="font-awesome\scss\_variables.scss" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="less\creative.less" />
+    <Content Include="less\mixins.less" />
+    <Content Include="less\variables.less" />
+    <Content Include="Views\Packages\Index.cshtml" />
+    <Content Include="Views\Shared\_Layout-secondary.cshtml" />
+    <Content Include="Views\PackageDetails\Index.cshtml" />
+    <None Include="Properties\PublishProfiles\Shofi.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="_img\dropdownmenu\darkGreen\Thumbs.db" />
+    <Content Include="_img\dropdownmenu\sky\Thumbs.db" />
+    <Content Include="_img\dropdownmenu\Thumbs.db" />
+    <Content Include="_img\_headerSlider\Thumbs.db" />
+    <Content Include="_img\_private\footerBack.psd" />
+    <Content Include="_img\_private\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="uploads\customers\" />
+    <Folder Include="uploads\packages\gallery\" />
+    <Folder Include="Views\LogOut\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GrandTravel.Entity\GrandTravel.Entity.csproj">
+      <Project>{c22301fa-d25f-4339-a535-73bc895b54da}</Project>
+      <Name>GrandTravel.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GrandTravel.Managers\GrandTravel.Managers.csproj">
+      <Project>{63ac1132-9de9-4570-8202-de7c4b957c87}</Project>
+      <Name>GrandTravel.Managers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GrandTravel.Repo\GrandTravel.Repo.csproj">
+      <Project>{131863d4-ada2-4cf5-862b-9a64dcdf4e4a}</Project>
+      <Name>GrandTravel.Repo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>58121</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:58121/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

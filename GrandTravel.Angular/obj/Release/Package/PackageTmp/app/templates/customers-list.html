@@ -1,0 +1,23 @@
+﻿
+<h4>Customer List</h4>
+
+
+<table cellpadding="0" border="0" class="col-md-9">
+    <tr>
+        <th>Customer Id</th>
+        <th>Customer Name</th>
+        <th>Customer Role</th>
+        <th colspan="2">Action</th>
+        <th>Status</th>
+    </tr>
+    <tbody ng-repeat="customer in allCustomers">
+        <tr>
+            <td>{{customer.CustomerId}}</td>
+            <td>{{customer.FirstName}}</td>
+            <td>{{customer.Authorization}}</td>
+            <td><a href="Admin/customer/edit/{{customer.HashId}}">Edit</a></td>
+            <td>| <a href="/delete/{{customer.HashId}}">Delete</a></td>
+            <td>|<em> {{customer.Status}}</em></td>
+        </tr>
+    </tbody>
+</table>

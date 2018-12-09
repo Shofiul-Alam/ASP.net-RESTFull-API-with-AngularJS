@@ -1,0 +1,7 @@
+﻿Lessons List goes here
+<a href="/lessons/create">Create New Lesson</a>
+<ul>
+    <li ng-repeat="lesson in lessons">
+        Name: {{lesson.Name}} - Teacher: {{lesson.Teacher}} - <a ng-href="/lessons/edit/{{lesson.Id}}">Edit</a>
+    </li>
+</ul>

@@ -1,0 +1,21 @@
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\bin\Debug\Tafe.CourseList.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\bin\Debug\Tafe.CourseList.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\bin\Debug\Tafe.CourseList.Entity.dll.CodeAnalysisLog.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\bin\Debug\Tafe.CourseList.Entity.dll.lastcodeanalysissucceeded
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Entity\bin\Debug\GrandTravel.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Entity\bin\Debug\GrandTravel.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Entity\obj\Debug\GrandTravel.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Entity\obj\Debug\GrandTravel.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Entity\obj\Debug\GrandTravel.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Entity\bin\Debug\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Entity\bin\Debug\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Entity\obj\Debug\GrandTravel.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Entity\obj\Debug\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Entity\obj\Debug\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Entity\bin\Debug\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Entity\bin\Debug\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Entity\obj\Debug\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Entity\obj\Debug\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Entity\obj\Debug\GrandTravel.Entity.csprojResolveAssemblyReference.cache

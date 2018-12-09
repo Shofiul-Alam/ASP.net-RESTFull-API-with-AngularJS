@@ -1,0 +1,79 @@
+﻿<div class="row">
+    <div class="col-md-3">
+        <p class="lead">Search Package</p>
+        <div class="list-group">
+            <form ng-submit="search()" role="form">
+
+                <div class="col-md-12">
+                    <label>Search By Location</label><br />
+                    <select class="form-control" ng-model="searchQuery.LocationId">
+                        <option selected value="">Select Location</option>
+                        <option value="{{location.LocationId}}" ng-repeat="location in Locations">{{location.LocationName}}</option>
+                    </select>
+
+                </div>
+                <div class="col-md-12">
+                    <label>Package Name:</label>
+                    <input type="text" placeholder="Enter Package" ng-model="searchQuery.PackageName" class="form-control" /><br />
+
+                    <button type="submit">Search</button>
+                </div>
+            </form>
+            <hr />
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div class="row carousel-holder">
+            <div class="col-md-12">
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img class="slide-image" src="/_img/_headerSlider/marketSlide.jpg" alt="" />
+                        </div>
+                        <div class="item">
+                            <img class="slide-image" src="/_img/_headerSlider/museumSlide.jpg" alt="" />
+                        </div>
+                        <div class="item">
+                            <img class="slide-image" src="/_img/_headerSlider/palaceSlide.jpg" alt="">
+                        </div>
+                    </div>
+                    <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4 col-lg-4 col-md-4" ng-repeat="package in packages">
+                <div class="thumbnail">
+                    <a href="PackageDetails/{{package.PackageId}}"><img src="{{package.FeaturePhoto}}" alt=""></a>
+                    <div class="caption">
+                        <h4 class="pull-right">${{package.Price}}</h4>
+                        <h4>
+                            <a href="PackageDetails">{{package.Name}}</a>
+                        </h4>
+                        <p>{{package.Description}} <a target="_blank" href="PackageDetails/{{package.PackageId}}">Get Package Details</a>.</p>
+                    </div>
+                    <div class="ratings">
+                        <p class="pull-right">15 reviews</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

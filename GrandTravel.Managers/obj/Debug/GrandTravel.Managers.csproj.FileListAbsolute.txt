@@ -1,0 +1,54 @@
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\Tafe.CourseList.Managers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\Tafe.CourseList.Managers.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\Tafe.CourseList.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\Tafe.CourseList.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\EntityFramework.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\Tafe.CourseList.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\Tafe.CourseList.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\EntityFramework.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\obj\Debug\GrandTravel.Managers.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\obj\Debug\Tafe.CourseList.Managers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\obj\Debug\Tafe.CourseList.Managers.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\Tafe.CourseList.Managers.dll.CodeAnalysisLog.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Managers\bin\Debug\Tafe.CourseList.Managers.dll.lastcodeanalysissucceeded
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\obj\Debug\GrandTravel.Managers.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Managers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Managers.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\obj\Debug\GrandTravel.Managers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Managers\obj\Debug\GrandTravel.Managers.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Managers.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Managers.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\obj\Debug\GrandTravel.Managers.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\obj\Debug\GrandTravel.Managers.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Managers\obj\Debug\GrandTravel.Managers.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Managers.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Managers.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\bin\Debug\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\obj\Debug\GrandTravel.Managers.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\obj\Debug\GrandTravel.Managers.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Managers\obj\Debug\GrandTravel.Managers.pdb

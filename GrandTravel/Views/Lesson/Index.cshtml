@@ -1,0 +1,58 @@
+﻿@model IList<GrandTravel.Entity.Lesson>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<a href="@Url.Action("Create")">Create new lessons</a>
+<table border="1">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Teacher
+            </th>
+            <th>
+                Topic
+            </th>
+            <th>
+                Date
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var lesson in Model)
+        {
+            <tr>
+                <td>
+                    @lesson.Id
+                </td>
+                <td>
+                    @lesson.Name
+                </td>
+                <td>
+                    @lesson.Teacher
+                </td>
+                <td>
+                    @lesson.Topic
+                </td>
+                <td>
+                    @lesson.Date
+                </td>
+                <td>
+                    <a href="@Url.Action("Update",new { id = lesson.Id })">Edit</a>
+                    <a href="@Url.Action("Delete",new { id = lesson.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

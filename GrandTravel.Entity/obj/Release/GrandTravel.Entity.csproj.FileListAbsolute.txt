@@ -1,0 +1,4 @@
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Entity\bin\Release\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Entity\bin\Release\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Entity\obj\Release\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Entity\obj\Release\GrandTravel.Entity.pdb

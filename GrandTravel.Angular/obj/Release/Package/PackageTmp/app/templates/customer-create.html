@@ -1,0 +1,54 @@
+﻿<link rel="stylesheet" type="text/css" href="/_css/uploadThumb.css" />
+<style>
+ div .regi{
+        max-width:500px;
+    }
+</style>
+<div class="regi">
+    <form ng-controller="CustomerCreateController" role="Form" name="register">
+
+        <label> Customer UserId:</label>
+        <input type="text" placeholder="User name here" ng-model="customer.LoginId" class="form-control" /><br />
+
+        <label> Customer Password:</label>
+        <input type="password" placeholder="Password name here" ng-model="customer.Password" class="form-control" /><br />
+        <label>Customer Email:</label>
+        <input type="text" placeholder="First Name Here" ng-model="customer.Email" class="form-control" /><br />
+        <div class="col-md-6">
+            <label>Customer First name:</label>
+            <input type="text" placeholder="First Name Here" ng-model="customer.FirstName" class="form-control" /><br />
+        </div>
+        <div class="col-md-6">
+            <label>Customer Last Name:</label>
+            <input type="text" placeholder="Last Name Here" ng-model="customer.LastName" class="form-control" /><br />
+        </div>
+        <label>DOB:</label>
+        <input type="datetime" placeholder="Date here" ng-model="customer.DOB" class="form-control" /><br />
+        <label>Customer Address:</label>
+        <input type="text" placeholder="Write Address" ng-model="customer.Address" class="form-control" /><br />
+
+        <input type="file" ngf-select ng-model="picFile" name="file"
+               accept="image/*" ngf-max-size="2MB" required
+               ngf-model-invalid="errorFile">
+        <i ng-show="myForm.file.$error.required">*required</i><br>
+        <i ng-show="myForm.file.$error.maxSize">
+            File too large
+            {{errorFile.size / 1000000|number:1}}MB: max 2M
+        </i>
+        <img ng-show="myForm.file.$valid" ngf-thumbnail="picFile" class="thumb"> <button ng-click="picFile = null" ng-show="picFile">Remove</button>
+        <br>
+        <input type="submit" ng-disabled="!register.$valid"
+               ng-click="upload(picFile)" value="Create" />
+
+
+        <span class="progress" ng-show="picFile.progress >= 0">
+            <div style="width:{{picFile.progress}}%"
+                 ng-bind="picFile.progress + '%'"></div>
+        </span>
+        <span ng-show="picFile.result">Upload Successful</span>
+        <span class="err" ng-show="errorMsg">{{errorMsg}}</span>
+
+
+    </form>
+</div>
+

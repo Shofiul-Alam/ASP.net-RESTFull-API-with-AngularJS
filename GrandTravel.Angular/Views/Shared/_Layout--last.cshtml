@@ -1,0 +1,579 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <base href="/">
+
+    
+
+    <!-- My Code -->
+    <meta charset="utf-8" />
+    <meta name="keywords" content="" />
+    <meta name="description" content=" " />
+    <meta name="author" content=" " />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="responsive-leyouts.css" rel="stylesheet" type="text/css" />
+
+
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700' rel='stylesheet' type='text/css'>
+
+    <link href="_css/slider.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="_scripts/headerslider/jssor.core.js"></script>
+    <script type="text/javascript" src="_scripts/headerslider/jssor.utils.js"></script>
+    <script type="text/javascript" src="_scripts/headerslider/jssor.slider.js"></script>
+    <script type="text/javascript" src="_scripts/jquery-1.9.1.min.js"></script>
+
+    <script type="text/javascript" src="_scripts/headerslider/inline.js"></script>
+    <link href="_css/dropdown-menu.css" rel="stylesheet" type="text/css" />
+    <link href="_css/mobile_menu.css" rel="stylesheet" type="text/css" />
+
+
+
+
+    <link rel="stylesheet" href="css/reset.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    <!-- responsive devices styles -->
+    <link rel="stylesheet" media="screen" href="css/responsive-leyouts.css" type="text/css" />
+
+    <!-- animations -->
+    <link href="js/animations/css/animations.min.css" rel="stylesheet" type="text/css" media="all" />
+
+    <!-- cubeportfolio Specially for image Gellary -->
+    <link rel="stylesheet" type="text/css" href="js/cubeportfolio/cubeportfolio.min.css">
+
+
+    <!-- Lightbox Specially for image Gellary-->
+    <link rel="stylesheet" type="text/css" href="js/lightbox/jquery.fancybox.css" media="screen" />
+    <!-- Finish-->
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+          
+            <div id="headerLeft">
+                <!--<div class="seoul_logo"><img src="images/map.png" width="120" alt=""/></div>-->
+
+                <div id="title" style="float:left;">
+                    <h2><img src="logo.png" alt="" /></h2>
+                    <h3>Online Information for Tourist Visiting To Seoul</h3>
+                </div>
+            </div>
+
+            <div id="headerRight">
+                <div id="branches">
+                    <p><a href="">Phone : 0431-799-657</a> - <a href="" type="email">Email : Shofi.tafe@gamil.com</a> </p>
+                </div>
+
+                <div id="socialLink">
+                    <a href=""><img src="_img/_private/socialAdd.svg" alt="" /></a>
+                    <a href=""><img src="_img/_private/email.svg" alt="" /></a>
+                    <a href=""><img src="_img/_private/facebook.svg" alt="" /></a>
+                    <a href=""><img src="_img/_private/tweet.svg" alt="" /></a>
+                    @if (User.Identity.IsAuthenticated)
+            {
+                        <a href="@Url.Action("Index", "LogOut")">Logout</a>
+                    }
+                </div>
+            </div>
+
+        </header>
+
+        <script>
+			function hideMenu() {
+				document.getElementById("hid").style.visibility = "hidden";
+				document.getElementById("hid2").style.visibility = "visible";
+
+			}
+			function showMenu() {
+				document.getElementById("hid").style.visibility = "visible";
+				document.getElementById("hid2").style.visibility = "hidden";
+			}
+        </script>
+
+        <style>
+            #hid2 {
+                display: none;
+            }
+        </style>
+
+        <nav id="mainNav">
+            <a id="hid" href="#mainNav" title="Show navigation" style="background:url(showMenu.gif) no-repeat; text-indent:-9999; height:30px;" onClick="hideMenu()" class="showM"></a>
+            <a id="hid2" href="#" title="Hide navigation" style="background:url(hideMenu.gif) no-repeat; margin-left:10px; height:30px;" class="hideM" onClick="showMenu()"></a>
+            <ul id="navigation" class="nav-main">
+                <li><a href="index.html">HOME</a></li>
+                <li class="list">
+                    <a href="attraction.html">ATTRACIONS</a>
+                    <ul class="nav-sub">
+                        <li><a href="palaces.html">Palaces</a></li>
+                        <li><a href="museums.html">Museums</a></li>
+                        <li><a href="amusement.html">Amusement</a></li>
+                    </ul>
+                </li>
+                <li class="list">
+                    <a href="shopping.html">SHOPPING</a>
+                    <ul class="nav-sub">
+                        <li><a href="brands.html">Product Brands</a></li>
+                        <li><a href="markets.html">Markets</a></li>
+                    </ul>
+                </li>
+                <li><a href="accommodation.html">ACCOMMODATION</a></li>
+                <li><a href="weather.html">WEATHER</a></li>
+                <li><a href="transport.html">TRANSPORT</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+                <li><a href="/Account">MY ACCOUNT</a></li>
+            </ul>
+
+            <div id="phone">
+
+            </div>
+        </nav>
+
+
+
+
+
+        <div id="banner">
+            <div id="sliderb_container" style="position: relative; width: 1000px; top:10px; left:18px; height: 300px; overflow: hidden;">
+
+                <!-- Loading Screen -->
+                <div u="loading" style="position: absolute;top: 0px; ">
+                    <div id="slider1">
+                    </div>
+                    <div id="loadingGif" style="background: url(_img/_headerSlider/loading.gif) no-repeat center center;">
+                    </div>
+                </div>
+
+                <!-- Slides Container -->
+                <div u="slides" id="sliderContainer">
+                    <div>
+                        <img u=image src="_img/_headerSlider/palaceSlide.jpg" />
+                        <div u="thumb"><a href="">A Line About Seoul Palace.</a></div>
+                    </div>
+                    <div>
+                        <img u=image src="_img/_headerSlider/museumSlide.jpg" />
+                        <div u="thumb"><a href="">A Line About South Korean Museum.</a></div>
+                    </div>
+                    <div>
+                        <img u=image src="_img/_headerSlider/marketSlide.jpg" />
+                        <div u="thumb"><a href="">A Line About Seoul Popular Market.</a></div>
+                    </div>
+                    <div>
+                        <img u=image src="_img/_headerSlider/branSlide.jpg" />
+                        <div u="thumb"><a href="">A Line About South Korean Popular Brand.</a></div>
+                    </div>
+                </div>
+
+                <!-- ThumbnailNavigator Skin Begin -->
+                <div u="thumbnavigator" class="sliderb-T" style="position: absolute; bottom: 0px; left: 0px; height:45px; width:1000px;">
+                    <div style="filter: alpha(opacity=40); opacity:0.4; position: absolute; display: block;
+						background-color: #000000; top: 0px; left: 0px; width: 100%; height: 100%;">
+                    </div>
+                    <!-- Thumbnail Item Skin Begin -->
+                    <div u="slides">
+                        <div u="prototype" style="POSITION: absolute; WIDTH: 1000px; HEIGHT: 45px; TOP: 0; LEFT: 0;">
+                            <thumbnailtemplate style="font-family: verdana; font-weight: normal; POSITION: absolute; WIDTH: 100%; HEIGHT: 100%; TOP: 0; LEFT: 0; color:#fff; line-height: 45px; font-size:20px; padding-left:10px;"></thumbnailtemplate>
+                        </div>
+                    </div>
+                    <!-- Thumbnail Item Skin End -->
+                </div>
+
+                <!-- bullet navigator container -->
+                <div u="navigator" class="jssorb01" style="position: absolute; bottom: 16px; right: 10px;">
+                    <!-- bullet navigator item prototype -->
+                    <div u="prototype" style="POSITION: absolute; WIDTH: 12px; HEIGHT: 12px;"></div>
+                </div>
+                <!-- Arrow Left -->
+                <span u="arrowleft" class="jssora05l" style="width: 40px; height: 40px; top: 223px; left: 28px;">
+                </span>
+                <!-- Arrow Right -->
+                <span u="arrowright" class="jssora05r" style="width: 40px; height: 40px; top: 123px; right: 8px">
+                </span>
+                <!-- Arrow Navigator Skin End -->
+                <a style="display: none" href="http://www.jssor.com">slideshow</a>
+                <!-- Trigger -->
+            </div>
+
+        </div>
+
+        <div id="weatherSeoul">
+            <img src="_img/_private/weather.png" width="100px" style="float:left;" /><span>Max 31<sup>0</sup> - Min 12<sup>0</sup></br> 19<sup>th</sup> August</span>
+            <p></p>
+            <p></p>
+            <div style="clear:left;"></div>
+            <hr />
+
+            <div>
+                <h5 style="text-aligh:center;">Visiting Museum</h5>
+                <table id="museum">
+                    <tr>
+                        <th>Museum</th>
+                        <th>Opening</th>
+                        <th>Closing</th>
+                    </tr>
+                    <tr>
+                        <td>Museum 1</td>
+                        <td>10:00 AM</td>
+                        <td>3:00 PM</td>
+                    </tr>
+                    <tr>
+                        <td>Museum 2</td>
+                        <td>10:00 AM</td>
+                        <td>3:00 PM</td>
+                    </tr>
+                    <tr>
+                        <td>Museum 3</td>
+                        <td>10:00 AM</td>
+                        <td>3:00 PM</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div id="topAdd">
+
+            <p>
+                Get A Best Accommodation In The Heart of The SEOUL</br>
+                Top Class Luxury Hotel To Book.
+            </p>
+            <div class="caption">
+                <h2><i>Discount 10%</i></br> BOOK NOW!</h2>
+            </div>
+
+        </div>
+
+
+
+        <div class="clearfix"></div>
+
+        <div class="feature_section4">
+            <div class="container">
+
+                <div>
+                    @RenderBody()
+                </div>
+
+                <h2>
+                    Why <strong>ABOUT SEOUL?</strong>
+                    <b>Here’s the best part of our impressive services</b>
+                </h2>
+
+                <div class="margin_top3"></div>
+
+                <div class="one_fourth animate" data-anim-type="fadeInLeft">
+                    <div class="cornered"></div>
+
+                    <div class="ccont">
+
+                        <i class="fa fa-plane"></i>
+
+                        <h5 class="caps">TOUR PLAN</h5>
+
+                        <p><strong>Plan and book your perfect trip!</strong> Best tour in SEOUL with reviews by travellers around the world.</p>
+
+                    </div>
+
+                    <div class="cornered2"></div>
+                </div>
+
+                <div class="one_fourth animate" data-anim-type="fadeInDown">
+                    <div class="cornered"></div>
+
+                    <div class="ccont">
+
+                        <i class="fa fa-home"></i>
+
+                        <h5 class="caps">ACCOMMODATION</h5>
+
+                        <p><strong>Book An Accommodation Now!!!</strong> You'll find the best places to eat, sleep, and play wherever you go.</p>
+
+                    </div>
+
+                    <div class="cornered2"></div>
+                </div>
+
+                <div class="one_fourth animate" data-anim-type="fadeInUp">
+                    <div class="cornered"></div>
+
+                    <div class="ccont">
+
+                        <i class="fa fa-info-circle"></i>
+
+                        <h5 class="caps">INFORMATION</h5>
+
+                        <p><strong>Welcome To Seoul Help Desk</strong><br />We are providing best information suitable for you.</p>
+
+                    </div>
+
+                    <div class="cornered2"></div>
+                </div>
+
+                <div class="one_fourth last animate" data-anim-type="fadeInRight">
+                    <div class="cornered"></div>
+
+                    <div class="ccont">
+
+                        <i class="fa fa-heart"></i>
+
+                        <h5 class="caps">ATTRACTIONS</h5>
+
+                        <p><strong>Museums, Palaces, Shopping.</strong><br />Visit the best historical palaces and Museums. </p>
+
+                    </div>
+
+                    <div class="cornered2"></div>
+                </div>
+
+            </div>
+        </div><!-- end features section4 -->
+
+        <div class="clearfix"></div>
+
+        <div class="fresh_works1">
+            <div class="container_full">
+
+                <h1>
+                    Seoul <strong>TOP 6 ATTRACIONS</strong>
+                    <b>It will be your golden memory in your life.</b>
+                </h1>
+                <br />
+
+                <div id="grid-container" class="cbp-l-grid-fullScreen animate" data-anim-type="fadeInUp">
+                    <ul>
+                        <li class="cbp-item identity logo">
+                            <a href="_img/gallery/seoul1.jpg" class="cbp-caption cbp-lightbox" data-title="Dashboard Plus<br>by GSRthemes9">
+                                <div class="cbp-caption-defaultWrap">
+                                    <img src="_img/gallery/seoul1.jpg" alt="" />
+                                </div>
+                                <div class="cbp-caption-activeWrap">
+                                    <div class="cbp-l-caption-alignLeft">
+                                        <div class="cbp-l-caption-body">
+                                            <div class="cbp-l-caption-title">Seoul Tourist Museum</div>
+                                            <div class="cbp-l-caption-desc">by JoongSeob Kim Flickr</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="cbp-item web-design">
+                            <a href="_img/gallery/seoul2.jpg" class="cbp-caption cbp-lightbox" data-title="Client chat app VIP<br>by GSRthemes9">
+                                <div class="cbp-caption-defaultWrap">
+                                    <img src="_img/gallery/seoul2.jpg" alt="" />
+                                </div>
+                                <div class="cbp-caption-activeWrap">
+                                    <div class="cbp-l-caption-alignLeft">
+                                        <div class="cbp-l-caption-body">
+                                            <div class="cbp-l-caption-title">Seoul Beautiful Temple</div>
+                                            <div class="cbp-l-caption-desc">by JongYoung Kim Flickr</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="cbp-item motion identity">
+                            <a href="_img/gallery/seoul3.jpg" class="cbp-caption cbp-lightbox" data-title="World Clock Widget<br>by GSRthemes9">
+                                <div class="cbp-caption-defaultWrap">
+                                    <img src="_img/gallery/seoul3.jpg" alt="" />
+                                </div>
+                                <div class="cbp-caption-activeWrap">
+                                    <div class="cbp-l-caption-alignLeft">
+                                        <div class="cbp-l-caption-body">
+                                            <div class="cbp-l-caption-title">The Nandaemun Gate</div>
+                                            <div class="cbp-l-caption-desc">by Megara Liancourt</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="cbp-item identity graphic">
+                            <a href="_img/gallery/seoul4.jpg" class="cbp-caption cbp-lightbox" data-title="Vimeo Video Lightbox<br>by GSRthemes9">
+                                <div class="cbp-caption-defaultWrap">
+                                    <img src="_img/gallery/seoul4.jpg" alt="" />
+                                </div>
+                                <div class="cbp-caption-activeWrap">
+                                    <div class="cbp-l-caption-alignLeft">
+                                        <div class="cbp-l-caption-body">
+                                            <div class="cbp-l-caption-title">IFC Shopping Mall in Seoul</div>
+                                            <div class="cbp-l-caption-desc">by Seoul Guide</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="cbp-item motion logo">
+                            <a href="_img/gallery/seoul5.jpg" class="cbp-caption cbp-lightbox" data-title="Skateshop Website<br>by GSRthemes9">
+                                <div class="cbp-caption-defaultWrap">
+                                    <img src="_img/gallery/seoul5.jpg" alt="" />
+                                </div>
+                                <div class="cbp-caption-activeWrap">
+                                    <div class="cbp-l-caption-alignLeft">
+                                        <div class="cbp-l-caption-body">
+                                            <div class="cbp-l-caption-title">Night in Seoul</div>
+                                            <div class="cbp-l-caption-desc">by Kihong Kim</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="cbp-item web-design">
+                            <a href="_img/gallery/seoul6.jpg" class="cbp-caption cbp-lightbox" data-title="Youtube Video Lightbox<br>by GSRthemes9">
+                                <div class="cbp-caption-defaultWrap">
+                                    <img src="_img/gallery/seoul6.jpg" alt="" />
+                                </div>
+                                <div class="cbp-caption-activeWrap">
+                                    <div class="cbp-l-caption-alignLeft">
+                                        <div class="cbp-l-caption-body">
+                                            <div class="cbp-l-caption-title">Korean Food</div>
+                                            <div class="cbp-l-caption-desc">by Brett</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="cbp-l-loadMore-text">
+                    <div data-href="#" class="cbp-l-loadMore-text-link"></div>
+                </div>
+
+            </div>
+        </div><!-- end fresh works1 -->
+
+        <div class="clearfix"></div>
+
+        <div class="footer_graph"></div>
+
+        <div class="clearfix"></div>
+
+        <div class="footer1">
+            <div class="container">
+
+                <div class="one_half animate" data-anim-type="fadeInLeft">
+                    <div class="twitter_feeds_two">
+
+                        <div class="left"><i class="fa fa-twitter"></i> <h5 class="white">Twitter</h5></div>
+
+                        <div class="right">
+                            <em>9 days ago .<a href="#">reply</a> .<a href="#">retweet</a> .<a href="#">favorite</a></em>
+                        </div>
+
+                    </div>
+                </div><!-- end twitter feeds End of one_half Animate Class div-->
+
+                <div class="one_half last animate" data-anim-type="fadeInRight">
+                    <!-- start of newsletter sign up-->
+                    <div class="newsletter_two">
+
+                        <div class="left"><i class="fa fa-envelope"></i> <h5 class="white">Sign up Newsletter</h5></div>
+
+                        <div class="right">
+                            <form method="get" action="index.html">
+                                <input class="enter_email_input" name="samplees" id="samplees" value="Please enter your Email Address" onFocus="if(this.value == 'Please enter your Email Address') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Please enter your Email Address';}" type="text">
+                                <div class="clearfix"></div>
+                                <input name="" value="Subscribe Now!" class="input_submit" type="submit">
+                            </form>
+                        </div>
+
+                    </div>
+                </div><!-- end newsletter sign up -->
+
+                <div class="clearfix divider_dashed1"></div>
+
+                <div class="one_fourth animate" data-anim-type="fadeInUp">
+                    <ul class="faddress">
+                        <li><img src="<?php echo bloginfo('template_url');?>/images/footer-logo.png" alt="" /></li>
+                        <li><i class="fa fa-map-marker fa-lg"></i>&nbsp; 42 Robert St, Ashfield<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NSW 213 Australia</li>
+                        <li><i class="fa fa-phone"></i>&nbsp; 0 -431 -799 -657</li>
+                        <li><i class="fa fa-print"></i>&nbsp; 1 -234 -456 -7890</li>
+                        <li><a href="mailto:info@yourdomain.com"><i class="fa fa-envelope"></i> info@webnets.com</a></li>
+                        <li><img src="<?php echo bloginfo('template_url');?>/images/footer-wmap.png" alt="" /></li>
+                    </ul>
+                </div><!-- end address -->
+
+                <div class="one_fourth animate" data-anim-type="fadeInUp">
+                    <div class="qlinks">
+
+                        <h4 class="lmb">Useful Links</h4>
+
+                        <ul>
+                            <li><a href="#"><i class="fa fa-angle-right"></i> Home Page Variations</a></li>
+                            <li><a href="#"><i class="fa fa-angle-right"></i> Awsome Slidershows</a></li>
+                            <li><a href="#"><i class="fa fa-angle-right"></i> Features and Typography</a></li>
+                            <li><a href="#"><i class="fa fa-angle-right"></i> Different &amp; Unique Pages</a></li>
+                            <li><a href="#"><i class="fa fa-angle-right"></i> Single and Portfolios</a></li>
+                            <li><a href="#"><i class="fa fa-angle-right"></i> Recent Blogs or News</a></li>
+                            <li><a href="#"><i class="fa fa-angle-right"></i> Layered PSD Files</a></li>
+                        </ul>
+
+                    </div>
+                </div><!-- end links -->
+
+                <div class="one_fourth animate" data-anim-type="fadeInUp">
+                    <div class="siteinfo">
+
+                        <h4 class="lmb">About Seoul</h4>
+
+                        <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined an chunks as necessary, making this the first true generator on the Internet. Lorem Ipsum as their default model text, and a search for lorem ipsum will uncover many web sites.</p>
+                        <br />
+                        <a href="#">Read more <i class="fa fa-long-arrow-right"></i></a>
+
+                    </div>
+                </div><!-- end site info -->
+
+                <div class="one_fourth last animate" data-anim-type="fadeInUp">
+
+                    <h4>Flickr Photos</h4>
+
+                    <div id="flickr_badge_wrapper">
+                        <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=9&amp;display=latest&amp;size=s&amp;layout=h&amp;source=user&amp;user=93382411%40N07"></script>
+                    </div>
+
+                </div><!-- end flickr -->
+
+
+            </div> <!-- End of Conatiner Class Div -->
+        </div><!-- end footer -->
+
+    </div>
+
+  
+
+    <!-- get jQuery from the google apis -->
+    <script type="text/javascript" src="js/universal/jquery.js"></script>
+
+    <!-- style switcher -->
+    <script src="js/style-switcher/jquery-1.js"></script>
+
+
+    <!-- animations -->
+    <script src="js/animations/js/animations.min.js" type="text/javascript"></script>
+
+    <!-- cubeportfolio -->
+    <script type="text/javascript" src="js/cubeportfolio/jquery.cubeportfolio.min.js"></script>
+    <script type="text/javascript" src="js/cubeportfolio/main.js"></script>
+    <script type="text/javascript" src="js/cubeportfolio/main5.js"></script>
+    <script type="text/javascript" src="js/cubeportfolio/main6.js"></script>
+
+
+
+    <!-- lightbox -->
+    <script type="text/javascript" src="js/lightbox/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="js/lightbox/custom.js"></script>
+
+</body>
+</html>

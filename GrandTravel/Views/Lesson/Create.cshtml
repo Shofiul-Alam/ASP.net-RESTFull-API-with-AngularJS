@@ -1,0 +1,53 @@
+﻿@model GrandTravel.Entity.Lesson
+
+@{
+    ViewBag.Title = "Lesson";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <h4>Create Lesson</h4>
+        <hr />
+        <div>
+            @Html.LabelFor(model => model.Name)
+            <div>
+                @Html.TextBoxFor(model => model.Name)
+                @Html.ValidationMessageFor(model => model.Name)
+            </div>
+        </div>
+        <div>
+            @Html.LabelFor(model => model.Teacher)
+            <div>
+                @Html.DropDownListFor(model => model.Teacher, (List<SelectListItem>)ViewBag.Teachers)
+                @Html.ValidationMessageFor(model => model.Teacher)
+            </div>
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.Topic)
+            <div>
+                @Html.DropDownListFor(model => model.Topic, (List<SelectListItem>)ViewBag.Topics)
+                @Html.ValidationMessageFor(model => model.Topic)
+            </div>
+        </div>
+
+
+        <div>
+            @Html.LabelFor(model => model.Date)
+            <div>
+                @Html.TextBoxFor(model => model.Date)
+                @Html.ValidationMessageFor(model => model.Date)
+            </div>
+        </div>
+
+        <div>
+            <input type="submit" value="Create" />
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

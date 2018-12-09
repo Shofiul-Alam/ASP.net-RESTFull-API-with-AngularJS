@@ -1,0 +1,64 @@
+﻿@model GrandTravel.Angular.Models.PackageView
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <h2>Booking Successfull.</h2>
+            <div class="col-md-8 col-md-offset-2">
+                <div class="row">
+                    <h4>Customer: @Model.CustomerName</h4>
+                    <h5>Order No: @Model.OrderId</h5>
+                    <p><em>Order Date: @Model.orderDate</em></p>
+
+                </div>
+                <table width="750">
+                    <tr>
+                        <th>Packege Thumb</th>
+                        <th>Packege Name</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                        <th>Total</th>
+                    </tr>
+                    @for (int j = 0; j < Model.DetailsLineItems.Count; j++)
+                    {
+
+                        <tr>
+                            <td><img src="@Model.DetailsLineItems[j].ItemPhoto" width="70" alt="@Model.DetailsLineItems[j].item_name" /></td>
+                            <td>@Model.DetailsLineItems[j].item_name</td>
+                            <td>@Model.DetailsLineItems[j].amount</td>
+                            <td>@Model.DetailsLineItems[j].quantity</td>
+                            <td>@(Model.DetailsLineItems[j].quantity * Model.DetailsLineItems[j].amount)</td>
+
+                        </tr>
+
+                    }
+                    <tr>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th><h5 style="text-align:right">Grand Total = @Model.GrandTotal</h5></th>
+
+                    </tr>
+
+                </table>
+                <a href="/" role="button" class="button btn-success">Go To Home Page</a>
+            </div>
+        </div>
+
+              
+                  
+
+    </div>
+</body>
+</html>

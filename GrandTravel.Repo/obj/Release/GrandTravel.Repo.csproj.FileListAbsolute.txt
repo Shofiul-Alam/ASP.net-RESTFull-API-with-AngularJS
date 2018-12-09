@@ -1,0 +1,12 @@
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Release\GrandTravel.Repo.dll.config
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Release\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Release\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Release\EntityFramework.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Release\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Release\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Release\EntityFramework.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\obj\Release\GrandTravel.Repo.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\obj\Release\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\obj\Release\GrandTravel.Repo.pdb

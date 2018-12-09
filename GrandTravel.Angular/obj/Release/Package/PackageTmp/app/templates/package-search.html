@@ -1,0 +1,54 @@
+﻿
+<style>
+    .package{
+        max-height:200px;
+        max-width:200px;
+    }
+</style>
+    <form ng-submit="search()" role="form">
+ 
+        <div class="col-md-6">
+            <label>Search By Location</label><br />
+            <select class="form-control" ng-model="searchQuery.LocationId" >
+                <option selected value="">Select Location</option>
+                <option value="{{location.LocationId}}"  ng-repeat="location in Locations">{{location.LocationName}}</option>
+            </select>
+
+        </div>
+        <div class="col-md-6">
+            <label>Package Name:</label>
+            <input type="text" placeholder="Enter Package" ng-model="searchQuery.PackageName" class="form-control" /><br />
+        </div>
+
+
+        <button type="submit">Search</button>
+
+
+    </form>
+    <hr/>
+<div class="row">
+    <div ng-repeat="resultPack in Packages track by $index">
+        <div class="col-md-9">
+            <div id="searchResult">
+                <div>{{resultPack.PackageId}}</div>
+                <img src="{{resultPack.FeaturePhoto}}" alt="{{resultPack.Name}}" class="package" />
+                <div>{{resultPack.Name}}</div>
+                <div>{{resultPack.Description}}</div>
+                <div>{{resultPack.Price}}</div>
+                <hr />
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <form role="form" name="addCart">
+
+                <input type="radio" value="{{resultPack.PackageId}}" placeholder="Enter Package" ng-model="orderLineItem.PackageId" required />
+                <input type="text" ng-model="orderLineItem.Quantity"/>
+                <button type="submit" ng-disabled="!addCart.$valid" ng-click="addToCart()">Add To Cart</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,81 @@
+@media only screen and ( max-width: 40em ) /* 640 */
+{
+
+#hid {display:block;}
+    #navigation
+    {
+        position: relative;
+		height:auto;
+		width:85%;
+    }
+        #mainNav > a
+        {
+        }
+        #mainNav:not( :target ) > a:first-of-type,
+        #mainNav:target > a:last-of-type
+        {
+            display: block;
+        }
+ 
+    /* first level */
+	
+	ul.nav-main {
+	z-index: none;
+	position:none;
+}
+ul.nav-sub, ul.nav-sub li {
+   z-index:none;
+   position:none;
+
+}
+ul.nav-main *.list {
+padding:none;
+margin-right:-25px;
+
+}
+ 
+    #mainNav > ul.nav-main
+    {
+        height: auto;
+        display: none;
+        position: none;
+        left: 0;
+        right: 0;
+		z-index:none;
+    }
+        #mainNav:target > ul.nav-main
+        {
+            display: block;
+        }
+        #mainNav > ul.nav-main > li
+        {
+            width: 100%;
+            float: none;
+        }
+	ul.nav-main li:hover > ul {
+	position:static;
+	
+}	ul.nav-main li.hover,
+ul.nav-main li:hover {
+	z-index:none;
+	position:none;
+}
+ 
+    /* second level */
+ 
+    #mainNav li ul
+    {
+        position: static;
+    }
+
+	
+
+
+
+
+
+	
+	
+}
+
+

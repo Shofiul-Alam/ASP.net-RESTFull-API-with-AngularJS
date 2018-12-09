@@ -1,0 +1,50 @@
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.dll.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\GrandTravel.Repo.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\obj\Debug\Tafe.CourseList.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.dll.CodeAnalysisLog.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Repo\bin\Debug\Tafe.CourseList.Repo.dll.lastcodeanalysissucceeded
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\obj\Debug\GrandTravel.Repo.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Repo.dll.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\obj\Debug\GrandTravel.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Repo\obj\Debug\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Repo.dll.config
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\obj\Debug\GrandTravel.Repo.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\obj\Debug\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Repo\obj\Debug\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Repo.dll.config
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Debug\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\obj\Debug\GrandTravel.Repo.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\obj\Debug\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Repo\obj\Debug\GrandTravel.Repo.pdb

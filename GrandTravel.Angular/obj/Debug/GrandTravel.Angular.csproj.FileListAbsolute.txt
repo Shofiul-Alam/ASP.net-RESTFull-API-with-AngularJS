@@ -1,0 +1,477 @@
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\csc.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\vbc.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.dll.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Newtonsoft.Json.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Net.Http.Formatting.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Helpers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.WebHost.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Mvc.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Razor.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Razor.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Managers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.SqlServer.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Managers.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Razor.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Razor.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Helpers.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Mvc.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Newtonsoft.Json.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Net.Http.Formatting.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.WebHost.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.SqlServer.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\GrandTravel.Angular.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.dll.CodeAnalysisLog.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.dll.lastcodeanalysissucceeded
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\csc.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\vbc.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Newtonsoft.Json.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Net.Http.Formatting.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Helpers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.WebHost.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Mvc.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Razor.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Razor.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\EntityFramework.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\EntityFramework.SqlServer.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Razor.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Razor.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Helpers.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Mvc.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Newtonsoft.Json.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Net.Http.Formatting.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.WebHost.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\EntityFramework.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\EntityFramework.SqlServer.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Owin.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Features.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Session.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Features.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Session.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.dll.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Managers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Managers.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Repo.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\csc.exe
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\vbc.exe
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\VBCSCompiler.exe
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.dll.config
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Entity.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Managers.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Repo.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Features.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Session.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Newtonsoft.Json.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Owin.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Net.Http.Formatting.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Helpers.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.WebHost.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Mvc.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Razor.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Razor.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\EntityFramework.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\EntityFramework.SqlServer.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Entity.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Managers.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Repo.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Features.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Session.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Razor.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Razor.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Helpers.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Mvc.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\Newtonsoft.Json.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Net.Http.Formatting.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.WebHost.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\EntityFramework.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\EntityFramework.SqlServer.xml
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.csprojResolveAssemblyReference.cache
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\csc.exe
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\vbc.exe
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.dll.config
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Managers.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Features.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Session.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Newtonsoft.Json.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Owin.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Net.Http.Formatting.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Helpers.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.WebHost.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Mvc.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Razor.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\EntityFramework.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\EntityFramework.SqlServer.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Managers.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Features.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Session.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Razor.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Helpers.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Mvc.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\Newtonsoft.Json.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Net.Http.Formatting.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.WebHost.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\EntityFramework.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\bin\EntityFramework.SqlServer.xml
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.dll
+C:\Users\Alam\Desktop\GrandTravel(5)\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.pdb
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\csc.exe
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\vbc.exe
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.dll.config
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.pdb
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Managers.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Features.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Session.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Newtonsoft.Json.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Owin.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Net.Http.Formatting.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Helpers.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.WebHost.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Mvc.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Razor.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\EntityFramework.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\EntityFramework.SqlServer.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Managers.pdb
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Features.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Session.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Razor.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Helpers.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Mvc.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\Newtonsoft.Json.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Net.Http.Formatting.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.WebHost.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\EntityFramework.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\bin\EntityFramework.SqlServer.xml
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.dll
+C:\Users\Alam\Desktop\GrandTravel\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.pdb
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.Owin.dll
+C:\Users\PEA106-10\Desktop\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.Owin.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\csc.exe
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\vbc.exe
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.dll.config
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Angular.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Entity.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Managers.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Repo.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Features.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Session.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Newtonsoft.Json.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Owin.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Net.Http.Formatting.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Helpers.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.Owin.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.WebHost.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Mvc.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Razor.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\EntityFramework.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\EntityFramework.SqlServer.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Entity.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Managers.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\GrandTravel.Repo.pdb
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Http.Features.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.AspNet.Session.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.Owin.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Razor.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Helpers.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Mvc.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\Newtonsoft.Json.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Net.Http.Formatting.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\System.Web.Http.WebHost.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\EntityFramework.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\bin\EntityFramework.SqlServer.xml
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.csprojResolveAssemblyReference.cache
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.dll
+C:\Users\Alam\Desktop\NewGrandTravel\GrandTravel\GrandTravel.Angular\obj\Debug\GrandTravel.Angular.pdb

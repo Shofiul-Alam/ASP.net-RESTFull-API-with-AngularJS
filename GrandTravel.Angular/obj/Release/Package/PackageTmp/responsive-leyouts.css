@@ -1,0 +1,111 @@
+/* Responsive CSS Styles Table of Contents */
+
+@media only screen and (min-width: 1000px) and (max-width: 1169px){
+#wrapper {
+	width: 1000px;
+}
+
+
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 999px){
+.site_wrapper {
+	width: 747px;
+}
+
+
+
+}
+
+
+
+@media only screen and (min-width: 640px) and (max-width: 767px){
+
+
+
+#wrapper {
+	width: 590px;
+}
+
+
+
+
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 639px){
+
+
+
+
+#wrapper{
+	width: 440px;
+}
+#seoulTitle {
+	width:100%;
+	
+}
+
+#seoulTitle h3 {
+	font-size:80%;
+	max-width:100%;
+}
+
+
+}
+
+
+
+
+
+@media only screen and (min-width: 300px) and (max-width: 479px){
+
+
+
+#wrapper{
+	width: 300px;
+}
+#headerLeft {
+	width:100%;
+
+}
+
+#headerRight {
+	margin-top:0;
+	margin-bottom:15px;
+}
+
+#seoulTitle {
+	width:100%;
+	float:left;
+	margin-left:25px;
+	
+}
+#title h2 img{
+	width:95%;
+	margin:auto;
+}
+
+
+
+#title h3 {
+	font-size:12px;
+	max-width:100%;
+	padding:0px;
+}
+
+#topAdd p{
+	font-size:12px;
+}
+
+.caption {
+	display:none;
+}
+.featured_section4 {
+	
+}
+
+
+}

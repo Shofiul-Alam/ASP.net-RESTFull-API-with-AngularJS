@@ -1,0 +1,153 @@
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\csc.exe
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\vbc.exe
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\VBCSCompiler.exe
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.dll.config
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.pdb
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Newtonsoft.Json.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Net.Http.Formatting.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Helpers.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.WebHost.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Mvc.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Razor.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Razor.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Razor.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Razor.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Helpers.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Mvc.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Newtonsoft.Json.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Net.Http.Formatting.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.WebHost.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.csprojResolveAssemblyReference.cache
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.pdb
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Entity.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Managers.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Repo.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.SqlServer.dll
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Entity.pdb
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Managers.pdb
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Repo.pdb
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.xml
+C:\Users\mtrent1\Desktop\CouseList with API\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.SqlServer.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\csc.exe
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\vbc.exe
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\VBCSCompiler.exe
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.dll.config
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.pdb
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Newtonsoft.Json.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Net.Http.Formatting.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Helpers.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.WebHost.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Mvc.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Razor.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Razor.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Entity.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Managers.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Repo.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.SqlServer.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Entity.pdb
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Managers.pdb
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Repo.pdb
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Razor.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Razor.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Helpers.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Mvc.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Newtonsoft.Json.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Net.Http.Formatting.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.WebHost.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.SqlServer.xml
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.csprojResolveAssemblyReference.cache
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\csc.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\vbc.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.dll.config
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Angular.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Newtonsoft.Json.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Net.Http.Formatting.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Helpers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.WebHost.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Mvc.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Razor.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Razor.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Managers.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Repo.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.SqlServer.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Managers.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Tafe.CourseList.Repo.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Razor.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Webpages.Razor.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Helpers.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Mvc.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\Newtonsoft.Json.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Net.Http.Formatting.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\System.Web.Http.WebHost.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\bin\EntityFramework.SqlServer.xml
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Angular\obj\Debug\Tafe.CourseList.Angular.pdb

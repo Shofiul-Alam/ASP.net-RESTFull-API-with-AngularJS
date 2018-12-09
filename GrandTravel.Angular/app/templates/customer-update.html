@@ -1,0 +1,24 @@
+﻿
+
+<form ng-submit="update()" role="form">
+    <label> Customer UserId:</label>
+    <input type="text" placeholder="User name here" ng-model="customer.LoginId" class="form-control" /><br />
+    <label>Customer Email:</label>
+    <input type="text" placeholder="First Name Here" ng-model="customer.Email" class="form-control" /><br />
+    <div class="col-md-6">
+        <label>Customer First name:</label>
+        <input type="text" placeholder="First Name Here" ng-model="customer.FirstName" class="form-control" /><br />
+    </div>
+    <div class="col-md-6">
+        <label>Customer Last Name:</label>
+        <input type="text" placeholder="Last Name Here" ng-model="customer.LastName" class="form-control" /><br />
+    </div>
+    <label>DOB:</label>
+    <input type="datetime" placeholder="Date here" ng-model="customer.DOB" class="form-control" /><br />
+    <label>Customer Address:</label>
+    <input type="text" placeholder="Write Address" ng-model="customer.Address" class="form-control" /><br />
+    <button class="btn btn-default" type="submit">Update</button>
+
+
+</form>
+

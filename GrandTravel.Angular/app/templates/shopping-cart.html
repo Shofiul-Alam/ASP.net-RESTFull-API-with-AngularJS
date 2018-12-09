@@ -1,0 +1,79 @@
+﻿
+<style>
+    .package{
+        max-height:200px;
+        max-width:200px;
+    }
+</style>
+    
+<div class="row">
+    <div ng-repeat="cartItem in carts">
+        <div class="col-md-9">
+            <div id="searchResult">
+
+                <div>Pacakge Id: {{cartItem.PackageId}}</div>
+                <div>Quantity: {{cartItem.Quantity}}</div>
+                <div>{{cartItem.Price}}</div>
+                                <hr />
+            </div>
+        </div>
+        <div class="col-md-3">
+            <a href="/removeCartItem/{{cartItem.PackageId}}" ng-click="removeItemFromCart()">Remove Item</a>
+        </div>
+    </div>
+</div>
+<div class="row col-md-3 col-md-offset-6">
+    
+</div>
+<div class="row">
+    <button ng-click="checkOut()" class="button default">Check Out</button>
+</div>
+
+<div class="row">
+    <h4>Customer: {{order.CustomerName}}</h4>
+    <h5>Order No: {{order.OrderId}}</h5>
+    <p><em>Order Date: {{order.orderDate}}</em></p>
+
+</div>
+
+<div>
+
+    <style>
+        table td, table th{
+            text-align:right;
+        }
+    </style>
+
+    <table width="750">
+        <tr>
+            <th>Packege Thumb</th>
+            <th>Packege Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+        </tr>
+        <tr ng-repeat="item in order.DetailsLineItems">
+            <td><img src="{{item.ItemPhoto}}" width="70" alt="{{item.item_name}}"/></td>
+            <td>{{item.item_name}}</td>
+            <td>{{item.quantity}}</td>
+            <td>{{item.amount}}</td>
+            <td>{{item.quantity * item.amount}}</td>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th><h5 style="text-align:right">Grand Total = {{order.GrandTotal}}</h5></th>
+            
+        </tr>
+       
+    </table>
+   
+    <div>
+        <a href="/PayPalPayment" target="_self" role="button" class="btn btn-success">Pay With PayPal</a>
+       
+    </div>
+</div>
+
+

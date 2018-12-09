@@ -1,0 +1,30 @@
+﻿
+
+<html ng-app="grandTravelApp">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <base href="/">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-route.min.js"></script>
+
+    <script src="/app/GrandTravelApp.js"></script>
+    <script src="/app/controllers/LessonsListController.js"></script>
+    <script src="/app/controllers/LessonCreateController.js"></script>
+    <script src="/app/controllers/LessonUpdateController.js"></script>
+    <script src="/app/services/LessonService.js"></script>
+    <script src="/app/controllers/CustomersListController.js"></script>
+    <script src="/app/controllers/CustomerCreateController.js"></script>
+    <script src="/app/controllers/CustomerUpdateController.js"></script>
+    <script src="/app/services/CustomerService.js"></script>
+</head>
+<body>
+    <div>
+        <div ng-view>
+
+        </div>
+    </div>
+</body>
+</html>

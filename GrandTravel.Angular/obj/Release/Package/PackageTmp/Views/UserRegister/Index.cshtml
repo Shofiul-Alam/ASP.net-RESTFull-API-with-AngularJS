@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <script src="/js/angular/angular.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-route.min.js"></script>
+
+
+    <script src="/app/GrandTravelApp.js"></script>
+
+
+    <script src="/js/angular/ng-file-upload-shim.min.js"></script>
+    <script src="/js/angular/ng-file-upload.min.js"></script>
+
+    <script src="/app/controllers/CustomersListController.js"></script>
+    <script src="/app/controllers/CustomerCreateController.js"></script>
+    <script src="/app/controllers/CustomerUpdateController.js"></script>
+    <script src="/app/services/CustomerService.js"></script>
+
+    <title>Index</title>
+</head>
+<body>
+    <div class="container"> 
+        <div id="home" class="tab-pane fade in active">
+            <h3>User Registration</h3>
+            <div ng-app="grandTravelApp" class="col-md-6">
+                <div ng-view>
+
+                 
+                </div>
+            </div>
+            <a href="/Login" role="button" class="btn btn-default float-left">Login</a>
+        </div>
+    </div>
+</body>
+</html>

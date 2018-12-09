@@ -1,0 +1,15 @@
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Entity\bin\Debug\Tafe.CourseList.Entity.dll
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Entity\bin\Debug\Tafe.CourseList.Entity.pdb
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.csprojResolveAssemblyReference.cache
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.dll
+s:\userdata\documents\visual studio 2015\Projects\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.pdb
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\bin\Debug\Tafe.CourseList.Entity.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\bin\Debug\Tafe.CourseList.Entity.pdb
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.csprojResolveAssemblyReference.cache
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.dll
+C:\Users\PEA106-10\Desktop\SaturdayMVC\Lesson 5\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\bin\Debug\Tafe.CourseList.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\bin\Debug\Tafe.CourseList.Entity.pdb
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.dll
+C:\Users\Shofi\Desktop\CouseList with API and Angular\Tafe.CourseList\Tafe.CourseList.Entity\obj\Debug\Tafe.CourseList.Entity.pdb
